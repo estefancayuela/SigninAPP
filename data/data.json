@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "name" : "Bob",
+            "hour_in" : 9,
+            "hour_out" : 15
+        },
+        {
+            "name" : "Estefan",
+            "hour_in" : 9,
+            "hour_out" : 15
+        }
+    ],
+    "line":[
+        {
+            "csv": 1
+        }
+    ]
+}
