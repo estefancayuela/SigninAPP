@@ -34,7 +34,7 @@ class Employee:
 
 
 
-with open("prova.csv", 'a', newline='') as file:
+with open("docs/march.csv", 'a', newline='') as file:
     csvwriter = csv.writer(file)
     for user in data["users"]:
         csvwriter.writerow([user["name"], Employee.random_oclock(user["hour_in"]), Employee.random_half(user["hour_out"])])
