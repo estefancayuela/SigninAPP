@@ -3,17 +3,21 @@
         {
             "name" : "Bob",
             "hour_in" : 9,
-            "hour_out" : 15
+            "min_in" : 0,
+            "hour_out" : 15,
+            "min_out" : 30
         },
         {
             "name" : "Estefan",
             "hour_in" : 9,
-            "hour_out" : 15
+            "min_in" : 0,
+            "hour_out" : 15,
+            "min_out" : 30
         }
     ],
-    "line":[
+    "year":[
         {
-            "csv": 1
+            "current": 2024
         }
     ]
 }
