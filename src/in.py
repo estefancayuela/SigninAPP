@@ -179,6 +179,6 @@ def date_to_int(m_date:str):
 
 
 
-#check_still_today()
+check_still_today()
 #today_check()
 #month_check("01")
