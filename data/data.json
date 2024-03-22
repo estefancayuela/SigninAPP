@@ -14,10 +14,5 @@
             "hour_out" : 15,
             "min_out" : 30
         }
-    ],
-    "year":[
-        {
-            "current": 2024
-        }
     ]
 }
