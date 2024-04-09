@@ -1,18 +1,52 @@
 {
-    "users":[
+    "users": [
         {
-            "name" : "Bob",
-            "hour_in" : 9,
-            "min_in" : 0,
-            "hour_out" : 15,
-            "min_out" : 30
+            "name": "Bob",
+            "hour_in": 9,
+            "min_in": 0,
+            "hour_out": 15,
+            "min_out": 30,
+            "active": false
         },
         {
-            "name" : "Estefan",
-            "hour_in" : 9,
-            "min_in" : 0,
-            "hour_out" : 15,
-            "min_out" : 30
+            "name": "Estefan",
+            "hour_in": 9,
+            "min_in": 0,
+            "hour_out": 15,
+            "min_out": 30,
+            "active": true
+        },
+        {
+            "name": "Wachin",
+            "hour_in": 10,
+            "min_in": 30,
+            "hour_out": 16,
+            "min_out": 0,
+            "active": true
+        },
+        {
+            "name": "Pablo",
+            "hour_in": 9,
+            "min_in": 0,
+            "hour_out": 18,
+            "min_out": 30,
+            "active": true
+        },
+        {
+            "name": "Papou",
+            "hour_in": 9,
+            "min_in": 0,
+            "hour_out": 18,
+            "min_out": 30,
+            "active": true
+        },
+        {
+            "name": "Papou",
+            "hour_in": 9,
+            "min_in": 0,
+            "hour_out": 18,
+            "min_out": 30,
+            "active": true
         }
     ]
 }
