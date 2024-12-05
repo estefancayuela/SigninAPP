@@ -12,4 +12,4 @@ When you execute the app for the first time you have to create the users (and ma
 
 ### Next steps
 
-I'm currently updating the app changeing the language and fixing some bugs. If you want to make some upgrade please send me a pull request.
+I'm currently updating the app changeing the language and fixing some bugs. If you want to make some upgrade please send me a PR.
